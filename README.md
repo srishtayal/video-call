@@ -17,6 +17,11 @@ This is a real-time multi-users **Video Chat Application** built using **EJS, No
 
 ---
 
+## 🌍 Live Demo  
+🔗 **Try it here:** [Video Chat App](https://video-call-goj5.onrender.com/) 🚀  
+
+---
+
 ## 🏗️ Setup & Installation  
 
 ### 🔹 1. Clone the Repository  
